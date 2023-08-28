@@ -1,4 +1,4 @@
-# InNews🇮🇳: News Summarizer App
+# NewsAgora🇧🇷: Um Portal de Notícias Resumidas📰
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
@@ -6,27 +6,27 @@
 ## [Demo of App](https://share.streamlit.io/spidy20/innews/App.py)
 
 ## Source
-- For summarizing the news I have used [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
-- For scraping the news I have used Google News RSS API.
+- Para resumir as noticias, usei este artigo [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
+- Para obter os artigos usei used Google News RSS API.
 
 ## Features
-- Trending News
-- Favorite Topics
-- Search News
-- Quantity control
+- Notícias em alta
+- Tópicos favoritos
+- Pesquisar notícias
+- Controle de quantidade
 
-## Usage
-- Clone my repository.
-- Open CMD in working directory.
-- Run following command.
+## Uso
+- Clone meu repositório.
+- Abra o CMD no diretório de trabalho.
+- Execute o seguinte comando.
   ```
   pip install -r requirements.txt
   ```
-- `App.py` is the main Python file of Streamlit Web-Application. 
-- To run app, write following command in CMD. or use any IDE.
+- `App.py` é o arquivo Python principal do Streamlit Web-Application.
+- Para executar o aplicativo, escreva o seguinte comando no CMD. ou use qualquer IDE.
   ```
   streamlit run App.py --server.port 80
   ```
 
 
-## Just follow☝️ me and Star⭐ my repository 
+## Basta me seguir☝️ eu e Star⭐ meu repositório
